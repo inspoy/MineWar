@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DataEye">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameplay">
+      <UniqueIdentifier>{766733f5-8273-4be0-a1a5-5d9bf41246ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilities">
+      <UniqueIdentifier>{b512a0fa-c221-440c-8aff-246f736f2cd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="External">
+      <UniqueIdentifier>{1d18f228-bbc3-4152-adbd-a12e87019261}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes">
+      <UniqueIdentifier>{b8f1a648-df43-4dec-baec-9a9378a6076e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameplay\Engine">
+      <UniqueIdentifier>{60849d92-65d2-4406-9701-80073737080a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameplay\Engine\GameObject">
+      <UniqueIdentifier>{ed83f1c4-6edf-4d97-910b-50d28e9c0914}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes\SceneGameMap">
+      <UniqueIdentifier>{edeb64c8-ad31-4524-9155-f9d8e758f472}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes\SceneTitle">
+      <UniqueIdentifier>{962708fd-528c-4968-8be7-b26c401e3c22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes\SceneLoadMap">
+      <UniqueIdentifier>{cb22b00a-9c82-42a8-a4aa-d9f2a0c703bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gameplay\Bosses">
+      <UniqueIdentifier>{9dc04653-63ea-413b-a5ca-e70d2a2ec22a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp" />
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp" />
+    <ClCompile Include="..\Classes\external\cJSON.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Utilities\EchoUtl.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Utilities\TimeUtl.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Engine\GameObject\GameScene.cpp">
+      <Filter>Gameplay\Engine\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Engine\BaseGameController.cpp">
+      <Filter>Gameplay\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Engine\GameLogic.cpp">
+      <Filter>Gameplay\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Engine\GameSceneFactory.cpp">
+      <Filter>Gameplay\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Engine\MetaDataHelper.cpp">
+      <Filter>Gameplay\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Engine\UIController.cpp">
+      <Filter>Gameplay\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Item.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Utilities\EchoTypes.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\MapDefinitions.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scenes\GameMapController.cpp">
+      <Filter>Scenes\SceneGameMap</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scenes\SceneGameMap.cpp">
+      <Filter>Scenes\SceneGameMap</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Trap.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\ArrowManager.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Arrow.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Boss.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scenes\SceneTitle.cpp">
+      <Filter>Scenes\SceneTitle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scenes\LoginListener.cpp">
+      <Filter>Scenes\SceneTitle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\KeyAndDoor.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Treasure.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Utilities\TrackEvent.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Bomb.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\MyBomb.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scenes\SceneLoadMap.cpp">
+      <Filter>Scenes\SceneLoadMap</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scenes\MapLoader.cpp">
+      <Filter>Scenes\SceneLoadMap</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Engine\AudioManager.cpp">
+      <Filter>Gameplay\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\BaseBossController.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Bosses\BossRusher.cpp">
+      <Filter>Gameplay\Bosses</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Bosses\BossBoomer.cpp">
+      <Filter>Gameplay\Bosses</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Bosses\BossFlyer.cpp">
+      <Filter>Gameplay\Bosses</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Engine\FSM.cpp">
+      <Filter>Gameplay\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Bosses\BossHider.cpp">
+      <Filter>Gameplay\Bosses</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Gameplay\Bosses\BossShooter.cpp">
+      <Filter>Gameplay\Bosses</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h" />
+    <ClInclude Include="..\Classes\HelloWorldScene.h" />
+    <ClInclude Include="..\Classes\Precompiled.h" />
+    <ClInclude Include="..\Classes\DataEye\DCAccount.h">
+      <Filter>DataEye</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataEye\DCAccountType.h">
+      <Filter>DataEye</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataEye\DCAgent.h">
+      <Filter>DataEye</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataEye\DCCardsGame.h">
+      <Filter>DataEye</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataEye\DCCoin.h">
+      <Filter>DataEye</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataEye\DCConfigParams.h">
+      <Filter>DataEye</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataEye\DCEvent.h">
+      <Filter>DataEye</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataEye\DCGender.h">
+      <Filter>DataEye</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataEye\DCItem.h">
+      <Filter>DataEye</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataEye\DCLevels.h">
+      <Filter>DataEye</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataEye\DCTask.h">
+      <Filter>DataEye</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataEye\DCTaskType.h">
+      <Filter>DataEye</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataEye\DCVirtualCurrency.h">
+      <Filter>DataEye</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\external\cJSON.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Utilities\EchoMacros.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Utilities\EchoTypes.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Utilities\EchoUtl.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Utilities\TimeUtl.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Engine\GameObject\GameScene.h">
+      <Filter>Gameplay\Engine\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Engine\UIController.h">
+      <Filter>Gameplay\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Engine\BaseGameController.h">
+      <Filter>Gameplay\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Engine\GameLogic.h">
+      <Filter>Gameplay\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Engine\GameSceneFactory.h">
+      <Filter>Gameplay\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Engine\MetaDataHelper.h">
+      <Filter>Gameplay\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Item.h">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\MapDefinitions.h">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scenes\GameMapController.h">
+      <Filter>Scenes\SceneGameMap</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scenes\SceneGameMap.h">
+      <Filter>Scenes\SceneGameMap</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Trap.h">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\ArrowManager.h">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Arrow.h">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Boss.h">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scenes\SceneTitle.h">
+      <Filter>Scenes\SceneTitle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scenes\LoginListener.h">
+      <Filter>Scenes\SceneTitle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\KeyAndDoor.h">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Treasure.h">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Utilities\TrackEvent.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Bomb.h">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\MyBomb.h">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scenes\SceneLoadMap.h">
+      <Filter>Scenes\SceneLoadMap</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scenes\MapLoader.h">
+      <Filter>Scenes\SceneLoadMap</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Engine\AudioManager.h">
+      <Filter>Gameplay\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\BaseBossController.h">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Bosses\BossRusher.h">
+      <Filter>Gameplay\Bosses</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Bosses\BossBoomer.h">
+      <Filter>Gameplay\Bosses</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Bosses\BossFlyer.h">
+      <Filter>Gameplay\Bosses</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Engine\FSM.h">
+      <Filter>Gameplay\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Bosses\BossHider.h">
+      <Filter>Gameplay\Bosses</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Gameplay\Bosses\BossShooter.h">
+      <Filter>Gameplay\Bosses</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\Classes\Gameplay\Engine\version.txt">
+      <Filter>Gameplay\Engine</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\game.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

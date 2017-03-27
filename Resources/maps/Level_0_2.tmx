@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-up" width="9" height="15" tilewidth="80" tileheight="80" backgroundcolor="#808080">
+ <tileset firstgid="1" name="newMapTile" tilewidth="80" tileheight="80">
+  <image source="newMapTile.png" width="320" height="640"/>
+ </tileset>
+ <layer name="wall" width="9" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYWBgYBlhmGEQuGEoYAA7WgIZ
+  </data>
+ </layer>
+ <layer name="goal" width="9" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFAw2EgViEgBpxIJagg1uQAQAt4ABX
+  </data>
+ </layer>
+</map>

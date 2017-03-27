@@ -1,0 +1,1352 @@
+===============MineWar Game Log===============
+[0:0:0.00]:[Flow] - Game Starting...
+[0:0:0.00]:[Audio] - Init audio manager...
+[0:0:0.00]:[Flow] - Scene switch start: SceneTitle
+[0:0:0.00]:[Flow] - Loading json file...
+[0:0:0.00]:[Flow] - Loading completed.
+[0:0:0.00]:[Flow] - Switching Complete!
+[0:0:4.99]:[DEBUG] - 6.71
+[0:0:7.42]:[UI] - API Func BTN_Start called.
+[0:0:7.42]:[UI] - Button 5 Clicked!
+[0:0:8.47]:[UI] - API Func BTN_Chapt1 called.
+[0:0:8.47]:[UI] - Button 9 Clicked!
+[0:0:8.95]:[UI] - API Func IMG_Level_0 called.
+[0:0:8.95]:[UI] - Button 31 Clicked!
+[0:0:10.05]:[Flow] - Scene switch start: SceneLoadMap
+[0:0:10.05]:[Flow] - Loading json file...
+[0:0:10.05]:[Flow] - Loading completed.
+[0:0:10.05]:[Flow] - Switching Complete!
+[0:0:11.56]:[Flow] - Scene switch start: SceneGameMap
+[0:0:11.56]:[Flow] - Loading json file...
+[0:0:11.56]:[Flow] - Loading completed.
+[0:0:11.56]:[Entity] - New entity added, uid=100025, type=Supply
+[0:0:11.56]:[Entity] - New entity added, uid=100026, type=TreasureBox
+[0:0:11.56]:[Flow] - Switching Complete!
+[0:0:13.81]:[UI] - API Func IMG_HintBox called.
+[0:0:13.81]:[UI] - Button 14 Clicked!
+[0:0:14.81]:[Hp] - disp=1, real=1, cd=1.000000
+[0:0:15.83]:[Hp] - disp=2, real=2, cd=1.000000
+[0:0:16.36]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.36]:[GameMap] - Untreated
+[0:0:16.38]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.38]:[GameMap] - Untreated
+[0:0:16.39]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.39]:[GameMap] - Untreated
+[0:0:16.41]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.41]:[GameMap] - Untreated
+[0:0:16.43]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.43]:[GameMap] - Untreated
+[0:0:16.44]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.44]:[GameMap] - Untreated
+[0:0:16.46]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.46]:[GameMap] - Untreated
+[0:0:16.48]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.48]:[GameMap] - Untreated
+[0:0:16.49]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.49]:[GameMap] - Untreated
+[0:0:16.51]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.51]:[GameMap] - Untreated
+[0:0:16.53]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.53]:[GameMap] - Untreated
+[0:0:16.54]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.54]:[GameMap] - Untreated
+[0:0:16.56]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.56]:[GameMap] - Untreated
+[0:0:16.58]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.58]:[GameMap] - Untreated
+[0:0:16.59]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.59]:[GameMap] - Untreated
+[0:0:16.61]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.61]:[GameMap] - Untreated
+[0:0:16.63]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.63]:[GameMap] - Untreated
+[0:0:16.64]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.64]:[GameMap] - Untreated
+[0:0:16.66]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.66]:[GameMap] - Untreated
+[0:0:16.68]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.68]:[GameMap] - Untreated
+[0:0:16.69]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.69]:[GameMap] - Untreated
+[0:0:16.71]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.71]:[GameMap] - Untreated
+[0:0:16.73]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.73]:[GameMap] - Untreated
+[0:0:16.74]:[GameMap] - Collided with 100005, type=Terrain
+[0:0:16.74]:[GameMap] - Untreated
+[0:0:16.84]:[Hp] - disp=3, real=3, cd=1.000000
+[0:0:17.41]:[GameMap] - Will change map to 2...
+[0:0:17.41]:[Entity] - New entity added, uid=100059, type=Supply
+[0:0:17.41]:[Entity] - New entity added, uid=100060, type=Supply
+[0:0:17.41]:[Entity] - New entity added, uid=100061, type=TreasureBox
+[0:0:17.41]:[Entity] - New entity added, uid=100062, type=Bomb
+[0:0:17.41]:[Entity] - New entity added, uid=100063, type=Key
+[0:0:17.41]:[Entity] - New entity added, uid=100064, type=Door
+[0:0:17.41]:[Entity] - New entity added, uid=100065, type=Key
+[0:0:17.41]:[Entity] - New entity added, uid=100066, type=Door
+[0:0:17.41]:[Entity] - New entity added, uid=100067, type=Trap
+[0:0:17.86]:[Hp] - disp=4, real=4, cd=1.000000
+[0:0:18.89]:[Hp] - disp=5, real=5, cd=1.000000
+[0:0:19.40]:[Arrow] - Arrow Added! uid = 100068
+[0:0:19.90]:[Hp] - disp=6, real=6, cd=1.000000
+[0:0:20.92]:[Hp] - disp=7, real=7, cd=1.000000
+[0:0:21.40]:[Arrow] - Arrow Added! uid = 100069
+[0:0:21.94]:[Hp] - disp=8, real=8, cd=1.000000
+[0:0:22.95]:[Hp] - disp=9, real=9, cd=1.000000
+[0:0:23.20]:[GameMap] - Will change map to 3...
+[0:0:23.20]:[Entity] - New entity added, uid=100090, type=Key
+[0:0:23.20]:[Entity] - New entity added, uid=100091, type=Key
+[0:0:23.20]:[Entity] - New entity added, uid=100092, type=Door
+[0:0:23.20]:[Entity] - New entity added, uid=100093, type=Door
+[0:0:23.20]:[Entity] - New entity added, uid=100094, type=Door
+[0:0:23.20]:[Entity] - New entity added, uid=100095, type=Door
+[0:0:23.20]:[Entity] - New entity added, uid=100096, type=Boss
+[0:0:23.20]:[Entity] - New entity added, uid=100097, type=Supply
+[0:0:23.20]:[Entity] - New entity added, uid=100098, type=Supply
+[0:0:23.20]:[Entity] - New entity added, uid=100099, type=Supply
+[0:0:23.20]:[Entity] - New entity added, uid=100100, type=Supply
+[0:0:23.20]:[Entity] - New entity added, uid=100101, type=Supply
+[0:0:23.20]:[Entity] - New entity added, uid=100102, type=Supply
+[0:0:23.20]:[Entity] - New entity added, uid=100103, type=Supply
+[0:0:23.20]:[Entity] - New entity added, uid=100104, type=Supply
+[0:0:23.98]:[Hp] - disp=10, real=10, cd=1.000000
+[0:0:24.99]:[Hp] - disp=11, real=11, cd=1.000000
+[0:0:26.01]:[Hp] - disp=12, real=12, cd=1.000000
+[0:0:26.56]:[GameMap] - Item 100099 Found!
+[0:0:26.56]:[GameMap] - Collided with 100075, type=Terrain
+[0:0:26.56]:[GameMap] - Untreated
+[0:0:26.58]:[GameMap] - Collided with 100075, type=Terrain
+[0:0:26.58]:[GameMap] - Untreated
+[0:0:26.59]:[GameMap] - Collided with 100075, type=Terrain
+[0:0:26.59]:[GameMap] - Untreated
+[0:0:26.61]:[GameMap] - Collided with 100075, type=Terrain
+[0:0:26.61]:[GameMap] - Untreated
+[0:0:26.63]:[GameMap] - Collided with 100075, type=Terrain
+[0:0:26.63]:[GameMap] - Untreated
+[0:0:26.64]:[GameMap] - Collided with 100075, type=Terrain
+[0:0:26.64]:[GameMap] - Untreated
+[0:0:26.66]:[GameMap] - Collided with 100075, type=Terrain
+[0:0:26.66]:[GameMap] - Untreated
+[0:0:26.68]:[GameMap] - Collided with 100075, type=Terrain
+[0:0:26.68]:[GameMap] - Untreated
+[0:0:26.69]:[GameMap] - Collided with 100075, type=Terrain
+[0:0:26.69]:[GameMap] - Untreated
+[0:0:26.71]:[GameMap] - Collided with 100075, type=Terrain
+[0:0:26.71]:[GameMap] - Untreated
+[0:0:26.73]:[GameMap] - Collided with 100075, type=Terrain
+[0:0:26.73]:[GameMap] - Untreated
+[0:0:26.74]:[GameMap] - Collided with 100075, type=Terrain
+[0:0:26.74]:[GameMap] - Untreated
+[0:0:26.76]:[GameMap] - Collided with 100075, type=Terrain
+[0:0:26.76]:[GameMap] - Untreated
+[0:0:26.78]:[GameMap] - Collided with 100076, type=Terrain
+[0:0:26.78]:[GameMap] - Untreated
+[0:0:26.79]:[GameMap] - Collided with 100076, type=Terrain
+[0:0:26.79]:[GameMap] - Untreated
+[0:0:26.81]:[GameMap] - Collided with 100076, type=Terrain
+[0:0:26.81]:[GameMap] - Untreated
+[0:0:26.83]:[GameMap] - Collided with 100076, type=Terrain
+[0:0:26.83]:[GameMap] - Untreated
+[0:0:26.84]:[GameMap] - Collided with 100076, type=Terrain
+[0:0:26.84]:[GameMap] - Untreated
+[0:0:26.86]:[GameMap] - Collided with 100076, type=Terrain
+[0:0:26.86]:[GameMap] - Untreated
+[0:0:26.88]:[GameMap] - Collided with 100076, type=Terrain
+[0:0:26.88]:[GameMap] - Untreated
+[0:0:26.89]:[GameMap] - Collided with 100076, type=Terrain
+[0:0:26.89]:[GameMap] - Untreated
+[0:0:26.91]:[GameMap] - Collided with 100076, type=Terrain
+[0:0:26.91]:[GameMap] - Untreated
+[0:0:26.93]:[GameMap] - Collided with 100076, type=Terrain
+[0:0:26.93]:[GameMap] - Untreated
+[0:0:26.94]:[GameMap] - Collided with 100076, type=Terrain
+[0:0:26.94]:[GameMap] - Untreated
+[0:0:26.96]:[GameMap] - Collided with 100076, type=Terrain
+[0:0:26.96]:[GameMap] - Untreated
+[0:0:26.98]:[GameMap] - Collided with 100076, type=Terrain
+[0:0:26.98]:[GameMap] - Untreated
+[0:0:26.99]:[GameMap] - Collided with 100077, type=Terrain
+[0:0:26.99]:[GameMap] - Untreated
+[0:0:27.01]:[GameMap] - Collided with 100077, type=Terrain
+[0:0:27.01]:[GameMap] - Untreated
+[0:0:27.03]:[GameMap] - Collided with 100077, type=Terrain
+[0:0:27.03]:[GameMap] - Untreated
+[0:0:27.03]:[Hp] - disp=13, real=13, cd=1.000000
+[0:0:27.04]:[GameMap] - Collided with 100077, type=Terrain
+[0:0:27.04]:[GameMap] - Untreated
+[0:0:27.06]:[GameMap] - Collided with 100077, type=Terrain
+[0:0:27.06]:[GameMap] - Untreated
+[0:0:27.08]:[GameMap] - Collided with 100077, type=Terrain
+[0:0:27.08]:[GameMap] - Untreated
+[0:0:27.09]:[GameMap] - Collided with 100077, type=Terrain
+[0:0:27.09]:[GameMap] - Untreated
+[0:0:27.11]:[GameMap] - Collided with 100077, type=Terrain
+[0:0:27.11]:[GameMap] - Untreated
+[0:0:27.13]:[GameMap] - Collided with 100077, type=Terrain
+[0:0:27.13]:[GameMap] - Untreated
+[0:0:27.14]:[GameMap] - Collided with 100077, type=Terrain
+[0:0:27.14]:[GameMap] - Untreated
+[0:0:27.16]:[GameMap] - Collided with 100077, type=Terrain
+[0:0:27.16]:[GameMap] - Untreated
+[0:0:27.18]:[GameMap] - Collided with 100077, type=Terrain
+[0:0:27.18]:[GameMap] - Untreated
+[0:0:27.19]:[GameMap] - Collided with 100077, type=Terrain
+[0:0:27.19]:[GameMap] - Untreated
+[0:0:27.43]:[GameMap] - Item 100098 Found!
+[0:0:28.04]:[Hp] - disp=14, real=14, cd=1.000000
+[0:0:28.73]:[GameMap] - Item 100091 Found!
+[0:0:28.73]:[GameMap] - Item 100100 Found!
+[0:0:29.06]:[Hp] - disp=15, real=15, cd=1.000000
+[0:0:29.16]:[GameMap] - Collided with 100081, type=Terrain
+[0:0:29.16]:[GameMap] - Untreated
+[0:0:29.18]:[GameMap] - Collided with 100081, type=Terrain
+[0:0:29.18]:[GameMap] - Untreated
+[0:0:29.19]:[GameMap] - Collided with 100081, type=Terrain
+[0:0:29.19]:[GameMap] - Untreated
+[0:0:29.21]:[GameMap] - Collided with 100081, type=Terrain
+[0:0:29.21]:[GameMap] - Untreated
+[0:0:29.23]:[GameMap] - Collided with 100081, type=Terrain
+[0:0:29.23]:[GameMap] - Untreated
+[0:0:29.24]:[GameMap] - Collided with 100081, type=Terrain
+[0:0:29.24]:[GameMap] - Untreated
+[0:0:29.26]:[GameMap] - Collided with 100081, type=Terrain
+[0:0:29.26]:[GameMap] - Untreated
+[0:0:29.28]:[GameMap] - Collided with 100081, type=Terrain
+[0:0:29.28]:[GameMap] - Untreated
+[0:0:29.29]:[GameMap] - Collided with 100081, type=Terrain
+[0:0:29.29]:[GameMap] - Untreated
+[0:0:29.31]:[GameMap] - Collided with 100081, type=Terrain
+[0:0:29.31]:[GameMap] - Untreated
+[0:0:29.33]:[GameMap] - Collided with 100081, type=Terrain
+[0:0:29.33]:[GameMap] - Untreated
+[0:0:29.34]:[GameMap] - Collided with 100081, type=Terrain
+[0:0:29.34]:[GameMap] - Untreated
+[0:0:29.36]:[GameMap] - Collided with 100081, type=Terrain
+[0:0:29.36]:[GameMap] - Untreated
+[0:0:30.08]:[Hp] - disp=16, real=16, cd=1.000000
+[0:0:30.24]:[GameMap] - Collided with 100086, type=Terrain
+[0:0:30.24]:[GameMap] - Untreated
+[0:0:30.26]:[GameMap] - Collided with 100086, type=Terrain
+[0:0:30.26]:[GameMap] - Untreated
+[0:0:30.28]:[GameMap] - Collided with 100086, type=Terrain
+[0:0:30.28]:[GameMap] - Untreated
+[0:0:30.29]:[GameMap] - Collided with 100086, type=Terrain
+[0:0:30.29]:[GameMap] - Untreated
+[0:0:30.31]:[GameMap] - Collided with 100086, type=Terrain
+[0:0:30.31]:[GameMap] - Untreated
+[0:0:30.33]:[GameMap] - Collided with 100086, type=Terrain
+[0:0:30.33]:[GameMap] - Untreated
+[0:0:30.34]:[GameMap] - Collided with 100086, type=Terrain
+[0:0:30.34]:[GameMap] - Untreated
+[0:0:30.36]:[GameMap] - Collided with 100086, type=Terrain
+[0:0:30.36]:[GameMap] - Untreated
+[0:0:30.38]:[GameMap] - Collided with 100086, type=Terrain
+[0:0:30.38]:[GameMap] - Untreated
+[0:0:30.39]:[GameMap] - Collided with 100086, type=Terrain
+[0:0:30.39]:[GameMap] - Untreated
+[0:0:30.41]:[GameMap] - Collided with 100086, type=Terrain
+[0:0:30.41]:[GameMap] - Untreated
+[0:0:30.43]:[GameMap] - Collided with 100086, type=Terrain
+[0:0:30.43]:[GameMap] - Untreated
+[0:0:30.44]:[GameMap] - Collided with 100086, type=Terrain
+[0:0:30.44]:[GameMap] - Untreated
+[0:0:30.89]:[GameMap] - Collided with 100083, type=Terrain
+[0:0:30.89]:[GameMap] - Untreated
+[0:0:30.91]:[GameMap] - Collided with 100083, type=Terrain
+[0:0:30.91]:[GameMap] - Untreated
+[0:0:30.93]:[GameMap] - Collided with 100083, type=Terrain
+[0:0:30.93]:[GameMap] - Untreated
+[0:0:30.94]:[GameMap] - Collided with 100083, type=Terrain
+[0:0:30.94]:[GameMap] - Untreated
+[0:0:30.96]:[GameMap] - Collided with 100083, type=Terrain
+[0:0:30.96]:[GameMap] - Untreated
+[0:0:30.98]:[GameMap] - Collided with 100083, type=Terrain
+[0:0:30.98]:[GameMap] - Untreated
+[0:0:30.99]:[GameMap] - Collided with 100083, type=Terrain
+[0:0:30.99]:[GameMap] - Untreated
+[0:0:31.01]:[GameMap] - Collided with 100083, type=Terrain
+[0:0:31.01]:[GameMap] - Untreated
+[0:0:31.03]:[GameMap] - Collided with 100083, type=Terrain
+[0:0:31.03]:[GameMap] - Untreated
+[0:0:31.04]:[GameMap] - Collided with 100083, type=Terrain
+[0:0:31.04]:[GameMap] - Untreated
+[0:0:31.06]:[GameMap] - Collided with 100083, type=Terrain
+[0:0:31.06]:[GameMap] - Untreated
+[0:0:31.08]:[GameMap] - Collided with 100083, type=Terrain
+[0:0:31.08]:[GameMap] - Untreated
+[0:0:31.09]:[GameMap] - Collided with 100083, type=Terrain
+[0:0:31.09]:[GameMap] - Untreated
+[0:0:31.09]:[Hp] - disp=17, real=17, cd=1.000000
+[0:0:31.34]:[GameMap] - Collided with 100096, type=Boss
+[0:0:31.34]:[Boss] - Reach boss: 100096
+[0:0:31.34]:[HP] - Hp reduced by 20
+[0:0:31.34]:[HP] - Hp bar reduced by 1
+[0:0:31.36]:[GameMap] - Collided with 100096, type=Boss
+[0:0:31.36]:[Boss] - Reach boss: 100096
+[0:0:31.38]:[GameMap] - Collided with 100096, type=Boss
+[0:0:31.38]:[Boss] - Reach boss: 100096
+[0:0:31.39]:[GameMap] - Collided with 100096, type=Boss
+[0:0:31.39]:[Boss] - Reach boss: 100096
+[0:0:31.41]:[GameMap] - Collided with 100096, type=Boss
+[0:0:31.41]:[Boss] - Reach boss: 100096
+[0:0:31.43]:[GameMap] - Collided with 100096, type=Boss
+[0:0:31.43]:[Boss] - Reach boss: 100096
+[0:0:31.44]:[GameMap] - Collided with 100096, type=Boss
+[0:0:31.44]:[Boss] - Reach boss: 100096
+[0:0:31.46]:[GameMap] - Collided with 100096, type=Boss
+[0:0:31.46]:[Boss] - Reach boss: 100096
+[0:0:31.48]:[GameMap] - Collided with 100096, type=Boss
+[0:0:31.48]:[Boss] - Reach boss: 100096
+[0:0:31.49]:[GameMap] - Collided with 100096, type=Boss
+[0:0:31.49]:[Boss] - Reach boss: 100096
+[0:0:31.51]:[GameMap] - Collided with 100096, type=Boss
+[0:0:31.51]:[Boss] - Reach boss: 100096
+[0:0:31.53]:[GameMap] - Collided with 100096, type=Boss
+[0:0:31.53]:[Boss] - Reach boss: 100096
+[0:0:31.54]:[GameMap] - Collided with 100096, type=Boss
+[0:0:31.54]:[Boss] - Reach boss: 100096
+[0:0:32.01]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:32.01]:[GameMap] - Untreated
+[0:0:32.03]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:32.03]:[GameMap] - Untreated
+[0:0:32.04]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:32.04]:[GameMap] - Untreated
+[0:0:32.06]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:32.06]:[GameMap] - Untreated
+[0:0:32.08]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:32.08]:[GameMap] - Untreated
+[0:0:32.09]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:32.09]:[GameMap] - Untreated
+[0:0:32.11]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:32.11]:[GameMap] - Untreated
+[0:0:32.11]:[Hp] - disp=18, real=18, cd=1.000000
+[0:0:32.13]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:32.13]:[GameMap] - Untreated
+[0:0:32.14]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:32.14]:[GameMap] - Untreated
+[0:0:32.16]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:32.16]:[GameMap] - Untreated
+[0:0:32.18]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:32.18]:[GameMap] - Untreated
+[0:0:32.19]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:32.19]:[GameMap] - Untreated
+[0:0:32.21]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:32.21]:[GameMap] - Untreated
+[0:0:32.23]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.23]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.23]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.23]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.23]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.24]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.24]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.24]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.24]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.24]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.33]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.33]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.33]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.33]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.33]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.35]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.35]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.35]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.35]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.35]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.37]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.37]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.37]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.37]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.37]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.38]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.38]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.38]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.38]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.38]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.40]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.40]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.40]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.40]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.40]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.42]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.42]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.42]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.42]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.42]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.43]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.43]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.43]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.43]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.43]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.45]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.45]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.45]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.45]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.45]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.47]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.47]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.47]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.47]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.47]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.48]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.48]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.48]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.48]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.48]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.50]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.50]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.50]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.50]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.50]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.52]:[GameMap] - Collided with 100091, type=Key
+[0:0:32.52]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:32.52]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:32.52]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:32.52]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:32.77]:[GameMap] - Collided with 100100, type=Supply
+[0:0:32.77]:[HP] - Collected supply 100100 with amount 0
+[0:0:32.77]:[HP] - Hp added by 50
+[0:0:32.77]:[HP] - Warning: Hp overflow.
+[0:0:32.77]:[HP] - Hp bar recovered by 1
+[0:0:33.14]:[Hp] - disp=19, real=29, cd=0.047619
+[0:0:33.20]:[Hp] - disp=20, real=29, cd=0.052632
+[0:0:33.25]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.25]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.25]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.25]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.25]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.27]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.27]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.27]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.27]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.27]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.29]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.29]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.29]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.29]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.29]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.29]:[Hp] - disp=21, real=29, cd=0.058824
+[0:0:33.30]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.30]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.30]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.30]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.30]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.32]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.32]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.32]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.32]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.32]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.34]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.34]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.34]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.34]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.34]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.35]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.35]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.35]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.35]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.35]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.37]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.37]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.37]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.37]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.37]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.37]:[Hp] - disp=22, real=29, cd=0.066667
+[0:0:33.39]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.39]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.39]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.39]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.39]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.40]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.40]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.40]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.40]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.40]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.42]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.42]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.42]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.42]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.42]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.44]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.44]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.44]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.44]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.44]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.45]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.45]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.45]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.45]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.45]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.45]:[Hp] - disp=23, real=29, cd=0.076923
+[0:0:33.47]:[GameMap] - Collided with 100091, type=Key
+[0:0:33.47]:[KeyAndDoor] - Open door: 100092 with key: 100091
+[0:0:33.47]:[KeyAndDoor] - Open door: 100093 with key: 100091
+[0:0:33.47]:[KeyAndDoor] - Open door: 100094 with key: 100091
+[0:0:33.47]:[KeyAndDoor] - Open door: 100095 with key: 100091
+[0:0:33.49]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:33.49]:[GameMap] - Untreated
+[0:0:33.50]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:33.50]:[GameMap] - Untreated
+[0:0:33.52]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:33.52]:[GameMap] - Untreated
+[0:0:33.54]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:33.54]:[GameMap] - Untreated
+[0:0:33.55]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:33.55]:[GameMap] - Untreated
+[0:0:33.55]:[Hp] - disp=24, real=29, cd=0.090909
+[0:0:33.57]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:33.57]:[GameMap] - Untreated
+[0:0:33.59]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:33.59]:[GameMap] - Untreated
+[0:0:33.60]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:33.60]:[GameMap] - Untreated
+[0:0:33.62]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:33.62]:[GameMap] - Untreated
+[0:0:33.64]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:33.64]:[GameMap] - Untreated
+[0:0:33.65]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:33.65]:[GameMap] - Untreated
+[0:0:33.67]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:33.67]:[GameMap] - Untreated
+[0:0:33.67]:[Hp] - disp=25, real=29, cd=0.111111
+[0:0:33.69]:[GameMap] - Collided with 100082, type=Terrain
+[0:0:33.69]:[GameMap] - Untreated
+[0:0:33.70]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.70]:[Boss] - Reach boss: 100096
+[0:0:33.72]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.72]:[Boss] - Reach boss: 100096
+[0:0:33.74]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.74]:[Boss] - Reach boss: 100096
+[0:0:33.75]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.75]:[Boss] - Reach boss: 100096
+[0:0:33.77]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.77]:[Boss] - Reach boss: 100096
+[0:0:33.79]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.79]:[Boss] - Reach boss: 100096
+[0:0:33.80]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.80]:[Boss] - Reach boss: 100096
+[0:0:33.80]:[Hp] - disp=26, real=30, cd=0.111111
+[0:0:33.82]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.82]:[Boss] - Reach boss: 100096
+[0:0:33.84]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.84]:[Boss] - Reach boss: 100096
+[0:0:33.85]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.85]:[Boss] - Reach boss: 100096
+[0:0:33.87]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.87]:[Boss] - Reach boss: 100096
+[0:0:33.89]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.89]:[Boss] - Reach boss: 100096
+[0:0:33.90]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.90]:[Boss] - Reach boss: 100096
+[0:0:33.92]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.92]:[Boss] - Reach boss: 100096
+[0:0:33.94]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.94]:[Boss] - Reach boss: 100096
+[0:0:33.94]:[Hp] - disp=27, real=30, cd=0.142857
+[0:0:33.95]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.95]:[Boss] - Reach boss: 100096
+[0:0:33.97]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.97]:[Boss] - Reach boss: 100096
+[0:0:33.99]:[GameMap] - Collided with 100096, type=Boss
+[0:0:33.99]:[Boss] - Reach boss: 100096
+[0:0:34.00]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.00]:[Boss] - Reach boss: 100096
+[0:0:34.02]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.02]:[Boss] - Reach boss: 100096
+[0:0:34.04]:[UI] - double click!
+[0:0:34.04]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.04]:[Boss] - Reach boss: 100096
+[0:0:34.05]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.05]:[Boss] - Reach boss: 100096
+[0:0:34.07]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.07]:[Boss] - Reach boss: 100096
+[0:0:34.09]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.09]:[Boss] - Reach boss: 100096
+[0:0:34.10]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.10]:[Boss] - Reach boss: 100096
+[0:0:34.10]:[Hp] - disp=28, real=30, cd=0.200000
+[0:0:34.12]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.12]:[Boss] - Reach boss: 100096
+[0:0:34.14]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.14]:[Boss] - Reach boss: 100096
+[0:0:34.15]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.15]:[Boss] - Reach boss: 100096
+[0:0:34.17]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.17]:[Boss] - Reach boss: 100096
+[0:0:34.19]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.19]:[Boss] - Reach boss: 100096
+[0:0:34.20]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.20]:[Boss] - Reach boss: 100096
+[0:0:34.22]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.22]:[Boss] - Reach boss: 100096
+[0:0:34.24]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.24]:[Boss] - Reach boss: 100096
+[0:0:34.25]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.25]:[Boss] - Reach boss: 100096
+[0:0:34.27]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.27]:[Boss] - Reach boss: 100096
+[0:0:34.29]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.29]:[Boss] - Reach boss: 100096
+[0:0:34.30]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.30]:[Boss] - Reach boss: 100096
+[0:0:34.32]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.32]:[Boss] - Reach boss: 100096
+[0:0:34.32]:[Hp] - disp=29, real=30, cd=0.333333
+[0:0:34.34]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.34]:[Boss] - Reach boss: 100096
+[0:0:34.35]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.35]:[Boss] - Reach boss: 100096
+[0:0:34.37]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.37]:[Boss] - Reach boss: 100096
+[0:0:34.39]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.39]:[Boss] - Reach boss: 100096
+[0:0:34.40]:[Boss] - You dead...
+[0:0:34.40]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.40]:[Boss] - Reach boss: 100096
+[0:0:34.42]:[Boss] - You dead...
+[0:0:34.42]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.42]:[Boss] - Reach boss: 100096
+[0:0:34.44]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.44]:[Boss] - Reach boss: 100096
+[0:0:34.45]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.45]:[Boss] - Reach boss: 100096
+[0:0:34.47]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.47]:[Boss] - Reach boss: 100096
+[0:0:34.49]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.49]:[Boss] - Reach boss: 100096
+[0:0:34.50]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.50]:[Boss] - Reach boss: 100096
+[0:0:34.50]:[HP] - Hp reduced by 20
+[0:0:34.50]:[HP] - Hp bar reduced by 1
+[0:0:34.52]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.52]:[Boss] - Reach boss: 100096
+[0:0:34.54]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.54]:[Boss] - Reach boss: 100096
+[0:0:34.55]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.55]:[Boss] - Reach boss: 100096
+[0:0:34.57]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.57]:[Boss] - Reach boss: 100096
+[0:0:34.59]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.59]:[Boss] - Reach boss: 100096
+[0:0:34.60]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.60]:[Boss] - Reach boss: 100096
+[0:0:34.62]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.62]:[Boss] - Reach boss: 100096
+[0:0:34.64]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.64]:[Boss] - Reach boss: 100096
+[0:0:34.65]:[GameMap] - Item 100103 Found!
+[0:0:34.65]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.65]:[GameMap] - Untreated
+[0:0:34.67]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.67]:[GameMap] - Untreated
+[0:0:34.67]:[Hp] - disp=30, real=30, cd=1.000000
+[0:0:34.69]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.69]:[GameMap] - Untreated
+[0:0:34.70]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.70]:[GameMap] - Untreated
+[0:0:34.72]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.72]:[GameMap] - Untreated
+[0:0:34.74]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.74]:[GameMap] - Untreated
+[0:0:34.75]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.75]:[GameMap] - Untreated
+[0:0:34.77]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.77]:[GameMap] - Untreated
+[0:0:34.79]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.79]:[GameMap] - Untreated
+[0:0:34.80]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.80]:[GameMap] - Untreated
+[0:0:34.82]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.82]:[GameMap] - Untreated
+[0:0:34.84]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.84]:[GameMap] - Untreated
+[0:0:34.85]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.85]:[GameMap] - Untreated
+[0:0:34.87]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.87]:[GameMap] - Untreated
+[0:0:34.89]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.89]:[GameMap] - Untreated
+[0:0:34.90]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.90]:[GameMap] - Untreated
+[0:0:34.92]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.92]:[GameMap] - Untreated
+[0:0:34.94]:[GameMap] - Collided with 100085, type=Terrain
+[0:0:34.94]:[GameMap] - Untreated
+[0:0:34.95]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.95]:[Boss] - Reach boss: 100096
+[0:0:34.97]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.97]:[Boss] - Reach boss: 100096
+[0:0:34.99]:[GameMap] - Collided with 100096, type=Boss
+[0:0:34.99]:[Boss] - Reach boss: 100096
+[0:0:35.00]:[GameMap] - Collided with 100096, type=Boss
+[0:0:35.00]:[Boss] - Reach boss: 100096
+[0:0:35.02]:[GameMap] - Collided with 100096, type=Boss
+[0:0:35.02]:[Boss] - Reach boss: 100096
+[0:0:35.04]:[GameMap] - Collided with 100096, type=Boss
+[0:0:35.04]:[Boss] - Reach boss: 100096
+[0:0:35.05]:[GameMap] - Collided with 100096, type=Boss
+[0:0:35.05]:[Boss] - Reach boss: 100096
+[0:0:35.07]:[GameMap] - Collided with 100096, type=Boss
+[0:0:35.07]:[Boss] - Reach boss: 100096
+[0:0:35.09]:[GameMap] - Collided with 100096, type=Boss
+[0:0:35.09]:[Boss] - Reach boss: 100096
+[0:0:35.10]:[GameMap] - Collided with 100096, type=Boss
+[0:0:35.10]:[Boss] - Reach boss: 100096
+[0:0:35.12]:[GameMap] - Collided with 100096, type=Boss
+[0:0:35.12]:[Boss] - Reach boss: 100096
+[0:0:35.14]:[GameMap] - Collided with 100096, type=Boss
+[0:0:35.14]:[Boss] - Reach boss: 100096
+[0:0:35.15]:[GameMap] - Collided with 100096, type=Boss
+[0:0:35.15]:[Boss] - Reach boss: 100096
+[0:0:35.69]:[Hp] - disp=31, real=31, cd=1.000000
+[0:0:35.92]:[UI] - double click!
+[0:0:35.92]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:35.92]:[GameMap] - Untreated
+[0:0:35.94]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:35.94]:[GameMap] - Untreated
+[0:0:35.96]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:35.96]:[GameMap] - Untreated
+[0:0:35.97]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:35.97]:[GameMap] - Untreated
+[0:0:35.99]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:35.99]:[GameMap] - Untreated
+[0:0:36.01]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.01]:[GameMap] - Untreated
+[0:0:36.02]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.02]:[GameMap] - Untreated
+[0:0:36.04]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.04]:[GameMap] - Untreated
+[0:0:36.06]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.06]:[GameMap] - Untreated
+[0:0:36.07]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.07]:[GameMap] - Untreated
+[0:0:36.09]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.09]:[GameMap] - Untreated
+[0:0:36.11]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.11]:[GameMap] - Untreated
+[0:0:36.12]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.12]:[GameMap] - Untreated
+[0:0:36.14]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.14]:[GameMap] - Untreated
+[0:0:36.16]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.16]:[GameMap] - Untreated
+[0:0:36.17]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.17]:[GameMap] - Untreated
+[0:0:36.19]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.19]:[GameMap] - Untreated
+[0:0:36.21]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.21]:[GameMap] - Untreated
+[0:0:36.22]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.22]:[GameMap] - Untreated
+[0:0:36.24]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.24]:[GameMap] - Untreated
+[0:0:36.26]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.26]:[GameMap] - Untreated
+[0:0:36.27]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.27]:[GameMap] - Untreated
+[0:0:36.29]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.29]:[GameMap] - Untreated
+[0:0:36.31]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.31]:[GameMap] - Untreated
+[0:0:36.32]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.32]:[GameMap] - Untreated
+[0:0:36.34]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.34]:[GameMap] - Untreated
+[0:0:36.36]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.36]:[GameMap] - Untreated
+[0:0:36.37]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.37]:[GameMap] - Untreated
+[0:0:36.39]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.39]:[GameMap] - Untreated
+[0:0:36.41]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.41]:[GameMap] - Untreated
+[0:0:36.42]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.42]:[GameMap] - Untreated
+[0:0:36.44]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.44]:[GameMap] - Untreated
+[0:0:36.46]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.46]:[GameMap] - Untreated
+[0:0:36.47]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.47]:[Boss] - Reach boss: 100096
+[0:0:36.47]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.47]:[GameMap] - Untreated
+[0:0:36.49]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.49]:[Boss] - Reach boss: 100096
+[0:0:36.49]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.49]:[GameMap] - Untreated
+[0:0:36.51]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.51]:[Boss] - Reach boss: 100096
+[0:0:36.51]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.51]:[GameMap] - Untreated
+[0:0:36.53]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.53]:[Boss] - Reach boss: 100096
+[0:0:36.53]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.53]:[GameMap] - Untreated
+[0:0:36.54]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.54]:[Boss] - Reach boss: 100096
+[0:0:36.54]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.54]:[GameMap] - Untreated
+[0:0:36.56]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.56]:[Boss] - Reach boss: 100096
+[0:0:36.56]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.56]:[GameMap] - Untreated
+[0:0:36.58]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.58]:[Boss] - Reach boss: 100096
+[0:0:36.58]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:36.58]:[GameMap] - Untreated
+[0:0:36.71]:[Hp] - disp=32, real=32, cd=1.000000
+[0:0:36.74]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.74]:[Boss] - Reach boss: 100096
+[0:0:36.76]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.76]:[Boss] - Reach boss: 100096
+[0:0:36.78]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.78]:[Boss] - Reach boss: 100096
+[0:0:36.79]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.79]:[Boss] - Reach boss: 100096
+[0:0:36.81]:[GameMap] - Item 100105 Found!
+[0:0:36.81]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.81]:[Boss] - Reach boss: 100096
+[0:0:36.83]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.83]:[Boss] - Reach boss: 100096
+[0:0:36.84]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.84]:[Boss] - Reach boss: 100096
+[0:0:36.86]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.86]:[Boss] - Reach boss: 100096
+[0:0:36.88]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.88]:[Boss] - Reach boss: 100096
+[0:0:36.89]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.89]:[Boss] - Reach boss: 100096
+[0:0:36.91]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.91]:[Boss] - Reach boss: 100096
+[0:0:36.93]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.93]:[Boss] - Reach boss: 100096
+[0:0:36.94]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.94]:[Boss] - Reach boss: 100096
+[0:0:36.96]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.96]:[Boss] - Reach boss: 100096
+[0:0:36.98]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.98]:[Boss] - Reach boss: 100096
+[0:0:36.99]:[GameMap] - Collided with 100096, type=Boss
+[0:0:36.99]:[Boss] - Reach boss: 100096
+[0:0:37.01]:[Boss] - You dead...
+[0:0:37.01]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.01]:[Boss] - Reach boss: 100096
+[0:0:37.03]:[Boss] - You dead...
+[0:0:37.03]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.03]:[Boss] - Reach boss: 100096
+[0:0:37.04]:[Boss] - You dead...
+[0:0:37.04]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.04]:[Boss] - Reach boss: 100096
+[0:0:37.06]:[Boss] - You dead...
+[0:0:37.06]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.06]:[Boss] - Reach boss: 100096
+[0:0:37.08]:[Boss] - You dead...
+[0:0:37.08]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.08]:[Boss] - Reach boss: 100096
+[0:0:37.09]:[Boss] - You dead...
+[0:0:37.09]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.09]:[Boss] - Reach boss: 100096
+[0:0:37.11]:[Boss] - You dead...
+[0:0:37.11]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.11]:[Boss] - Reach boss: 100096
+[0:0:37.13]:[Boss] - You dead...
+[0:0:37.13]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.13]:[Boss] - Reach boss: 100096
+[0:0:37.14]:[Boss] - You dead...
+[0:0:37.14]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.14]:[Boss] - Reach boss: 100096
+[0:0:37.16]:[Boss] - You dead...
+[0:0:37.16]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.16]:[Boss] - Reach boss: 100096
+[0:0:37.18]:[Boss] - You dead...
+[0:0:37.18]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.18]:[Boss] - Reach boss: 100096
+[0:0:37.19]:[Boss] - You dead...
+[0:0:37.19]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.19]:[Boss] - Reach boss: 100096
+[0:0:37.21]:[Boss] - You dead...
+[0:0:37.21]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.21]:[Boss] - Reach boss: 100096
+[0:0:37.23]:[Boss] - You dead...
+[0:0:37.23]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.23]:[Boss] - Reach boss: 100096
+[0:0:37.24]:[Boss] - You dead...
+[0:0:37.24]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.24]:[Boss] - Reach boss: 100096
+[0:0:37.26]:[Boss] - You dead...
+[0:0:37.26]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.26]:[Boss] - Reach boss: 100096
+[0:0:37.28]:[Boss] - You dead...
+[0:0:37.28]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.28]:[Boss] - Reach boss: 100096
+[0:0:37.28]:[HP] - Hp reduced by 20
+[0:0:37.28]:[HP] - Hp bar reduced by 2
+[0:0:37.29]:[Boss] - You dead...
+[0:0:37.29]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.29]:[Boss] - Reach boss: 100096
+[0:0:37.31]:[Boss] - You dead...
+[0:0:37.31]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.31]:[Boss] - Reach boss: 100096
+[0:0:37.33]:[Boss] - You dead...
+[0:0:37.33]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.33]:[Boss] - Reach boss: 100096
+[0:0:37.34]:[Boss] - You dead...
+[0:0:37.34]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.34]:[Boss] - Reach boss: 100096
+[0:0:37.36]:[Boss] - You dead...
+[0:0:37.36]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.36]:[Boss] - Reach boss: 100096
+[0:0:37.38]:[Boss] - You dead...
+[0:0:37.38]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.38]:[Boss] - Reach boss: 100096
+[0:0:37.39]:[Boss] - You dead...
+[0:0:37.39]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.39]:[Boss] - Reach boss: 100096
+[0:0:37.41]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.41]:[Boss] - Reach boss: 100096
+[0:0:37.43]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.43]:[Boss] - Reach boss: 100096
+[0:0:37.44]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.44]:[Boss] - Reach boss: 100096
+[0:0:37.46]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.46]:[Boss] - Reach boss: 100096
+[0:0:37.48]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.48]:[Boss] - Reach boss: 100096
+[0:0:37.49]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.49]:[Boss] - Reach boss: 100096
+[0:0:37.51]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.51]:[Boss] - Reach boss: 100096
+[0:0:37.53]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.53]:[Boss] - Reach boss: 100096
+[0:0:37.54]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.54]:[Boss] - Reach boss: 100096
+[0:0:37.56]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.56]:[Boss] - Reach boss: 100096
+[0:0:37.58]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.58]:[Boss] - Reach boss: 100096
+[0:0:37.59]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.59]:[Boss] - Reach boss: 100096
+[0:0:37.61]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.61]:[Boss] - Reach boss: 100096
+[0:0:37.73]:[Hp] - disp=33, real=33, cd=1.000000
+[0:0:37.84]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.84]:[Boss] - Reach boss: 100096
+[0:0:37.86]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.86]:[Boss] - Reach boss: 100096
+[0:0:37.88]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.88]:[Boss] - Reach boss: 100096
+[0:0:37.89]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.89]:[Boss] - Reach boss: 100096
+[0:0:37.91]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.91]:[Boss] - Reach boss: 100096
+[0:0:37.93]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.93]:[Boss] - Reach boss: 100096
+[0:0:37.94]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.94]:[Boss] - Reach boss: 100096
+[0:0:37.96]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.96]:[Boss] - Reach boss: 100096
+[0:0:37.98]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.98]:[Boss] - Reach boss: 100096
+[0:0:37.99]:[GameMap] - Collided with 100096, type=Boss
+[0:0:37.99]:[Boss] - Reach boss: 100096
+[0:0:38.01]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.01]:[Boss] - Reach boss: 100096
+[0:0:38.03]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.03]:[Boss] - Reach boss: 100096
+[0:0:38.04]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.04]:[Boss] - Reach boss: 100096
+[0:0:38.43]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.43]:[Boss] - Reach boss: 100096
+[0:0:38.44]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.44]:[Boss] - Reach boss: 100096
+[0:0:38.46]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.46]:[Boss] - Reach boss: 100096
+[0:0:38.48]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.48]:[Boss] - Reach boss: 100096
+[0:0:38.49]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.49]:[Boss] - Reach boss: 100096
+[0:0:38.51]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.51]:[Boss] - Reach boss: 100096
+[0:0:38.53]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.53]:[Boss] - Reach boss: 100096
+[0:0:38.54]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.54]:[Boss] - Reach boss: 100096
+[0:0:38.56]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.56]:[Boss] - Reach boss: 100096
+[0:0:38.58]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.58]:[Boss] - Reach boss: 100096
+[0:0:38.59]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.59]:[Boss] - Reach boss: 100096
+[0:0:38.61]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.61]:[Boss] - Reach boss: 100096
+[0:0:38.63]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.63]:[Boss] - Reach boss: 100096
+[0:0:38.64]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.64]:[Boss] - Reach boss: 100096
+[0:0:38.66]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.66]:[Boss] - Reach boss: 100096
+[0:0:38.68]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.68]:[Boss] - Reach boss: 100096
+[0:0:38.69]:[GameMap] - Collided with 100096, type=Boss
+[0:0:38.69]:[Boss] - Reach boss: 100096
+[0:0:38.74]:[Hp] - disp=34, real=34, cd=1.000000
+[0:0:39.14]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.14]:[Boss] - Reach boss: 100096
+[0:0:39.16]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.16]:[Boss] - Reach boss: 100096
+[0:0:39.18]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.18]:[Boss] - Reach boss: 100096
+[0:0:39.19]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.19]:[Boss] - Reach boss: 100096
+[0:0:39.21]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.21]:[Boss] - Reach boss: 100096
+[0:0:39.23]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.23]:[Boss] - Reach boss: 100096
+[0:0:39.24]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.24]:[Boss] - Reach boss: 100096
+[0:0:39.26]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.26]:[Boss] - Reach boss: 100096
+[0:0:39.28]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.28]:[Boss] - Reach boss: 100096
+[0:0:39.29]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.29]:[Boss] - Reach boss: 100096
+[0:0:39.31]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.31]:[Boss] - Reach boss: 100096
+[0:0:39.31]:[HP] - Hp reduced by 20
+[0:0:39.31]:[HP] - Hp bar reduced by 2
+[0:0:39.33]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.33]:[Boss] - Reach boss: 100096
+[0:0:39.34]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.34]:[Boss] - Reach boss: 100096
+[0:0:39.36]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.36]:[Boss] - Reach boss: 100096
+[0:0:39.38]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.38]:[Boss] - Reach boss: 100096
+[0:0:39.39]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.39]:[Boss] - Reach boss: 100096
+[0:0:39.41]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.41]:[Boss] - Reach boss: 100096
+[0:0:39.43]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.43]:[Boss] - Reach boss: 100096
+[0:0:39.44]:[Boss] - You dead...
+[0:0:39.44]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.44]:[Boss] - Reach boss: 100096
+[0:0:39.46]:[Boss] - You dead...
+[0:0:39.46]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.46]:[Boss] - Reach boss: 100096
+[0:0:39.48]:[Boss] - You dead...
+[0:0:39.48]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.48]:[Boss] - Reach boss: 100096
+[0:0:39.49]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.49]:[Boss] - Reach boss: 100096
+[0:0:39.49]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.49]:[GameMap] - Untreated
+[0:0:39.51]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.51]:[Boss] - Reach boss: 100096
+[0:0:39.51]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.51]:[GameMap] - Untreated
+[0:0:39.53]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.53]:[Boss] - Reach boss: 100096
+[0:0:39.53]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.53]:[GameMap] - Untreated
+[0:0:39.55]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.55]:[Boss] - Reach boss: 100096
+[0:0:39.55]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.55]:[GameMap] - Untreated
+[0:0:39.56]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.56]:[Boss] - Reach boss: 100096
+[0:0:39.56]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.56]:[GameMap] - Untreated
+[0:0:39.58]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.58]:[Boss] - Reach boss: 100096
+[0:0:39.58]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.58]:[GameMap] - Untreated
+[0:0:39.60]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.60]:[Boss] - Reach boss: 100096
+[0:0:39.60]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.60]:[GameMap] - Untreated
+[0:0:39.61]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.61]:[Boss] - Reach boss: 100096
+[0:0:39.61]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.61]:[GameMap] - Untreated
+[0:0:39.63]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.63]:[Boss] - Reach boss: 100096
+[0:0:39.63]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.63]:[GameMap] - Untreated
+[0:0:39.65]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.65]:[Boss] - Reach boss: 100096
+[0:0:39.65]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.65]:[GameMap] - Untreated
+[0:0:39.66]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.66]:[Boss] - Reach boss: 100096
+[0:0:39.66]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.66]:[GameMap] - Untreated
+[0:0:39.68]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.68]:[Boss] - Reach boss: 100096
+[0:0:39.68]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.68]:[GameMap] - Untreated
+[0:0:39.70]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.70]:[Boss] - Reach boss: 100096
+[0:0:39.70]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.70]:[GameMap] - Untreated
+[0:0:39.71]:[GameMap] - Collided with 100096, type=Boss
+[0:0:39.71]:[Boss] - Reach boss: 100096
+[0:0:39.71]:[GameMap] - Collided with 100105, type=MyBomb
+[0:0:39.71]:[GameMap] - Untreated
+[0:0:39.76]:[Hp] - disp=35, real=35, cd=1.000000
+[0:0:39.91]:[MyBomb] - Expoled...
+[0:0:40.52]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.52]:[Boss] - Reach boss: 100096
+[0:0:40.54]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.54]:[Boss] - Reach boss: 100096
+[0:0:40.55]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.55]:[Boss] - Reach boss: 100096
+[0:0:40.57]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.57]:[Boss] - Reach boss: 100096
+[0:0:40.59]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.59]:[Boss] - Reach boss: 100096
+[0:0:40.60]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.60]:[Boss] - Reach boss: 100096
+[0:0:40.62]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.62]:[Boss] - Reach boss: 100096
+[0:0:40.64]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.64]:[Boss] - Reach boss: 100096
+[0:0:40.65]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.65]:[Boss] - Reach boss: 100096
+[0:0:40.67]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.67]:[Boss] - Reach boss: 100096
+[0:0:40.69]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.69]:[Boss] - Reach boss: 100096
+[0:0:40.70]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.70]:[Boss] - Reach boss: 100096
+[0:0:40.72]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.72]:[Boss] - Reach boss: 100096
+[0:0:40.74]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.74]:[Boss] - Reach boss: 100096
+[0:0:40.75]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.75]:[Boss] - Reach boss: 100096
+[0:0:40.77]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.77]:[Boss] - Reach boss: 100096
+[0:0:40.79]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.79]:[Boss] - Reach boss: 100096
+[0:0:40.79]:[Hp] - disp=36, real=36, cd=1.000000
+[0:0:40.80]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.80]:[Boss] - Reach boss: 100096
+[0:0:40.82]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.82]:[Boss] - Reach boss: 100096
+[0:0:40.84]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.84]:[Boss] - Reach boss: 100096
+[0:0:40.85]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.85]:[Boss] - Reach boss: 100096
+[0:0:40.87]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.87]:[Boss] - Reach boss: 100096
+[0:0:40.89]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.89]:[Boss] - Reach boss: 100096
+[0:0:40.90]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.90]:[Boss] - Reach boss: 100096
+[0:0:40.92]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.92]:[Boss] - Reach boss: 100096
+[0:0:40.94]:[GameMap] - Collided with 100096, type=Boss
+[0:0:40.94]:[Boss] - Reach boss: 100096
+[0:0:41.80]:[Hp] - disp=37, real=77, cd=0.012346
+[0:0:41.84]:[Hp] - disp=38, real=77, cd=0.012658
+[0:0:41.87]:[Hp] - disp=39, real=77, cd=0.012987
+[0:0:41.90]:[Hp] - disp=40, real=77, cd=0.013333
+[0:0:41.94]:[Hp] - disp=41, real=77, cd=0.013699
+[0:0:41.97]:[Hp] - disp=42, real=77, cd=0.014085
+[0:0:42.00]:[Hp] - disp=43, real=77, cd=0.014493
+[0:0:42.04]:[Hp] - disp=44, real=77, cd=0.014925
+[0:0:42.07]:[Hp] - disp=45, real=77, cd=0.015385
+[0:0:42.10]:[Hp] - disp=46, real=77, cd=0.015873
+[0:0:42.14]:[Hp] - disp=47, real=77, cd=0.016393
+[0:0:42.17]:[Hp] - disp=48, real=77, cd=0.016949
+[0:0:42.22]:[Hp] - disp=49, real=77, cd=0.017544
+[0:0:42.27]:[Hp] - disp=50, real=77, cd=0.018182
+[0:0:42.32]:[Hp] - disp=51, real=77, cd=0.018868
+[0:0:42.37]:[Hp] - disp=52, real=77, cd=0.019608
+[0:0:42.42]:[Hp] - disp=53, real=77, cd=0.020408
+[0:0:42.47]:[Hp] - disp=54, real=77, cd=0.021277
+[0:0:42.52]:[Hp] - disp=55, real=77, cd=0.022222
+[0:0:42.57]:[Hp] - disp=56, real=77, cd=0.023256
+[0:0:42.62]:[Hp] - disp=57, real=77, cd=0.024390
+[0:0:42.67]:[Hp] - disp=58, real=77, cd=0.025641
+[0:0:42.72]:[Hp] - disp=59, real=77, cd=0.027027
+[0:0:42.77]:[Hp] - disp=60, real=77, cd=0.028571
+[0:0:42.82]:[Hp] - disp=61, real=77, cd=0.030303
+[0:0:42.87]:[Hp] - disp=62, real=77, cd=0.032258
+[0:0:42.92]:[Hp] - disp=63, real=77, cd=0.034483
+[0:0:42.99]:[Hp] - disp=64, real=77, cd=0.037037
+[0:0:43.05]:[Hp] - disp=65, real=77, cd=0.040000
+[0:0:43.12]:[Hp] - disp=66, real=77, cd=0.043478
+[0:0:43.19]:[Hp] - disp=67, real=77, cd=0.047619
+[0:0:43.25]:[Hp] - disp=68, real=77, cd=0.052632
+[0:0:43.34]:[Hp] - disp=69, real=77, cd=0.058824
+[0:0:43.42]:[Hp] - disp=70, real=77, cd=0.066667
+[0:0:43.50]:[Hp] - disp=71, real=77, cd=0.076923
+[0:0:43.60]:[Hp] - disp=72, real=77, cd=0.090909
+[0:0:43.72]:[Hp] - disp=73, real=77, cd=0.111111
+[0:0:43.85]:[Hp] - disp=74, real=77, cd=0.142857
+[0:0:43.95]:[Flow] - You win!
+[0:0:44.06]:[Hp] - disp=75, real=77, cd=0.200000
+[0:0:44.28]:[Hp] - disp=76, real=77, cd=0.333333
+[0:0:44.63]:[Hp] - disp=77, real=77, cd=1.000000
+[0:0:52.38]:[UI] - API Func BTN_Clear_Return called.
+[0:0:52.38]:[Flow] - Scene switch start: SceneTitle
+[0:0:52.38]:[Flow] - Loading json file...
+[0:0:52.38]:[Flow] - Loading completed.
+[0:0:52.38]:[Flow] - Switching Complete!
+[0:0:52.38]:[UI] - Button 88 Clicked!
+[0:0:55.38]:[UI] - API Func BTN_Start called.
+[0:0:55.38]:[UI] - Button 5 Clicked!
+[0:0:56.14]:[UI] - API Func BTN_Chapt1 called.
+[0:0:56.14]:[UI] - Button 9 Clicked!
+[0:0:57.26]:[UI] - API Func BTN_NextChapt called.
+[0:0:57.26]:[UI] - Button 10 Clicked!
+[0:0:58.23]:[UI] - API Func IMG_Level_1 called.
+[0:0:58.23]:[UI] - Button 32 Clicked!
+[0:0:59.33]:[Flow] - Scene switch start: SceneLoadMap
+[0:0:59.33]:[Flow] - Loading json file...
+[0:0:59.33]:[Flow] - Loading completed.
+[0:0:59.33]:[Flow] - Switching Complete!
+[0:1:0.83]:[Flow] - Scene switch start: SceneGameMap
+[0:1:0.83]:[Flow] - Loading json file...
+[0:1:0.83]:[Flow] - Loading completed.
+[0:1:0.83]:[Entity] - New entity added, uid=100130, type=Supply
+[0:1:0.83]:[Entity] - New entity added, uid=100131, type=TreasureBox
+[0:1:0.83]:[Flow] - Switching Complete!
+[0:1:2.61]:[UI] - API Func IMG_HintBox called.
+[0:1:2.61]:[UI] - Button 14 Clicked!
+[0:1:3.60]:[Hp] - disp=1, real=1, cd=1.000000
+[0:1:4.62]:[Hp] - disp=2, real=2, cd=1.000000
+[0:1:5.40]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.40]:[GameMap] - Untreated
+[0:1:5.42]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.42]:[GameMap] - Untreated
+[0:1:5.44]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.44]:[GameMap] - Untreated
+[0:1:5.45]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.45]:[GameMap] - Untreated
+[0:1:5.47]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.47]:[GameMap] - Untreated
+[0:1:5.49]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.49]:[GameMap] - Untreated
+[0:1:5.50]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.50]:[GameMap] - Untreated
+[0:1:5.52]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.52]:[GameMap] - Untreated
+[0:1:5.54]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.54]:[GameMap] - Untreated
+[0:1:5.55]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.55]:[GameMap] - Untreated
+[0:1:5.57]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.57]:[GameMap] - Untreated
+[0:1:5.59]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.59]:[GameMap] - Untreated
+[0:1:5.60]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.60]:[GameMap] - Untreated
+[0:1:5.62]:[GameMap] - Collided with 100110, type=Terrain
+[0:1:5.62]:[GameMap] - Untreated
+[0:1:5.64]:[Hp] - disp=3, real=3, cd=1.000000
+[0:1:6.32]:[GameMap] - Will change map to 2...
+[0:1:6.32]:[Entity] - New entity added, uid=100164, type=Supply
+[0:1:6.32]:[Entity] - New entity added, uid=100165, type=Supply
+[0:1:6.32]:[Entity] - New entity added, uid=100166, type=TreasureBox
+[0:1:6.32]:[Entity] - New entity added, uid=100167, type=Bomb
+[0:1:6.32]:[Entity] - New entity added, uid=100168, type=Key
+[0:1:6.32]:[Entity] - New entity added, uid=100169, type=Door
+[0:1:6.32]:[Entity] - New entity added, uid=100170, type=Key
+[0:1:6.32]:[Entity] - New entity added, uid=100171, type=Door
+[0:1:6.32]:[Entity] - New entity added, uid=100172, type=Trap
+[0:1:6.32]:[Entity] - New entity added, uid=100173, type=Boss
+[0:1:6.67]:[Hp] - disp=4, real=4, cd=1.000000
+[0:1:7.69]:[Hp] - disp=5, real=5, cd=1.000000
+[0:1:8.32]:[Arrow] - Arrow Added! uid = 100174
+[0:1:8.70]:[Hp] - disp=6, real=6, cd=1.000000
+[0:1:9.72]:[Hp] - disp=7, real=7, cd=1.000000
+[0:1:10.32]:[Arrow] - Arrow Added! uid = 100175
+[0:1:10.74]:[Hp] - disp=8, real=8, cd=1.000000
+[0:1:11.75]:[Hp] - disp=9, real=9, cd=1.000000
+[0:1:12.30]:[Arrow] - Arrow Added! uid = 100176
+[0:1:12.77]:[Hp] - disp=10, real=10, cd=1.000000
+[0:1:13.79]:[Hp] - disp=11, real=11, cd=1.000000
+[0:1:14.30]:[Arrow] - Arrow Added! uid = 100177
+[0:1:14.81]:[Hp] - disp=12, real=12, cd=1.000000
+[0:1:15.82]:[Hp] - disp=13, real=13, cd=1.000000
+[0:1:16.31]:[Arrow] - Arrow Added! uid = 100178
+[0:1:16.84]:[Hp] - disp=14, real=14, cd=1.000000
+[0:1:17.86]:[Hp] - disp=15, real=15, cd=1.000000
+[0:1:18.31]:[Arrow] - Arrow Added! uid = 100179
+[0:1:18.88]:[Hp] - disp=16, real=16, cd=1.000000
+[0:1:19.89]:[Hp] - disp=17, real=17, cd=1.000000
+[0:1:20.31]:[Arrow] - Arrow Added! uid = 100180
+[0:1:20.91]:[Hp] - disp=18, real=18, cd=1.000000
+[0:1:21.93]:[Hp] - disp=19, real=19, cd=1.000000
+[0:1:22.31]:[Arrow] - Arrow Added! uid = 100181
+[0:1:22.95]:[Hp] - disp=20, real=20, cd=1.000000
+[0:1:23.03]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.03]:[Boss] - Reach boss: 100173
+[0:1:23.03]:[HP] - Hp reduced by 20
+[0:1:23.03]:[HP] - Hp bar reduced by 1
+[0:1:23.05]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.05]:[Boss] - Reach boss: 100173
+[0:1:23.06]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.06]:[Boss] - Reach boss: 100173
+[0:1:23.08]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.08]:[Boss] - Reach boss: 100173
+[0:1:23.10]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.10]:[Boss] - Reach boss: 100173
+[0:1:23.11]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.11]:[Boss] - Reach boss: 100173
+[0:1:23.13]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.13]:[Boss] - Reach boss: 100173
+[0:1:23.15]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.15]:[Boss] - Reach boss: 100173
+[0:1:23.16]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.16]:[Boss] - Reach boss: 100173
+[0:1:23.18]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.18]:[Boss] - Reach boss: 100173
+[0:1:23.20]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.20]:[Boss] - Reach boss: 100173
+[0:1:23.21]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.21]:[Boss] - Reach boss: 100173
+[0:1:23.23]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.23]:[Boss] - Reach boss: 100173
+[0:1:23.25]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.25]:[Boss] - Reach boss: 100173
+[0:1:23.28]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.28]:[Boss] - Reach boss: 100173
+[0:1:23.30]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.30]:[Boss] - Reach boss: 100173
+[0:1:23.31]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.31]:[Boss] - Reach boss: 100173
+[0:1:23.33]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.33]:[Boss] - Reach boss: 100173
+[0:1:23.35]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.35]:[Boss] - Reach boss: 100173
+[0:1:23.36]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.36]:[Boss] - Reach boss: 100173
+[0:1:23.38]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.38]:[Boss] - Reach boss: 100173
+[0:1:23.40]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.40]:[Boss] - Reach boss: 100173
+[0:1:23.41]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.41]:[Boss] - Reach boss: 100173
+[0:1:23.43]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.43]:[Boss] - Reach boss: 100173
+[0:1:23.45]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.45]:[Boss] - Reach boss: 100173
+[0:1:23.46]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.46]:[Boss] - Reach boss: 100173
+[0:1:23.48]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.48]:[Boss] - Reach boss: 100173
+[0:1:23.50]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.50]:[Boss] - Reach boss: 100173
+[0:1:23.51]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.51]:[Boss] - Reach boss: 100173
+[0:1:23.53]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.53]:[Boss] - Reach boss: 100173
+[0:1:23.55]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.55]:[Boss] - Reach boss: 100173
+[0:1:23.56]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.56]:[Boss] - Reach boss: 100173
+[0:1:23.58]:[GameMap] - Collided with 100173, type=Boss
+[0:1:23.58]:[Boss] - Reach boss: 100173

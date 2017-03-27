@@ -1,0 +1,15 @@
+//----------------------------------------------------------
+//
+// Echo Entertainment @ 2014
+// All Rights Reserved
+//
+//----------------------------------------------------------
+
+Echo Engine based on cocos2dx 3.3
+
+When creating a new project, remember to clear MetaDataHelper!!
+
+Change Log:
+
+2014.11.15 create
+
